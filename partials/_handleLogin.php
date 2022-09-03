@@ -18,14 +18,15 @@
                 $_SESSION['email']=$row["email"];
                 $_SESSION['username']=$row["username"];
                 $_SESSION['user_id']=$row["id"];
+                echo("<script>location.href = 'http://localhost/placify/index.php?loginsuccess=true';</script>");
             }
             else{
-                echo "<script>alert('Incorrect password')</script>";
+                echo "<script>alert('Incorrect password. Please try again')</script>";
             }
         }
         else{
             echo "<script>alert('Invalid Username. Please try again');</script>";
         }
-        echo("<script>location.href = 'http://localhost/placify/index.php?loginsuccess=true';</script>");
+        echo("<script>location.href = 'http://localhost/placify/index.php';</script>");
     }
 ?>

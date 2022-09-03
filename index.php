@@ -102,7 +102,7 @@
     </div>
 
     <section class="category" id="explore">
-        <h1 class="heading">
+        <h1 class="heading" style="gap:1rem">
             <div>
                 <span>p</span>
                 <span>o</span>

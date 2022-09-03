@@ -57,6 +57,16 @@ function togglePassword(){
         show.type='password'
     }
 }
+function toggleCPassword(){
+    let show=document.querySelector('.showCPassword');
+    // console.log(show)
+    if(show.type=='password'){
+        show.type='text';
+    }
+    else{
+        show.type='password'
+    }
+}
 
 formBtn.addEventListener('click',()=>{
     loginForm.classList.add('active');

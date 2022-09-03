@@ -8,7 +8,7 @@
     <a href="/placify" class="logo"><span>P</span>lacify</a>
     <nav class="navbar">';
         if(isset($_SESSION['loggedin']) && $_SESSION['loggedin']==true){
-            echo '<p id="usernameParaNav" style="font-size:3rem; color:orange; text-align:center;">'.$_SESSION["username"].'</p>';
+            echo '<p id="usernameParaNav" style="font-size:3rem; color:orange; text-transform:none; text-align:center;">'.$_SESSION["username"].'</p>';
         }
         echo '<a href="/placify" class="close-menu">Home</a>
         <a href="destinations.php" class="close-menu">Destinations</a>

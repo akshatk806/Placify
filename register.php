@@ -173,9 +173,9 @@
             <input type="text" name="username" placeholder="Enter your username" required>
             <input type="email" name="email" placeholder="Enter your email" required>
             <input type="password" name="password" placeholder="Enter your password" required>
-            <input type="password" class="showPassword" name="cpassword" placeholder="Confirm password" required>
+            <input type="password" class="showCPassword" name="cpassword" placeholder="Confirm password" required>
             <label for="checkbox">Show Password</label>
-            <input type="checkbox" name="checkbox" onclick="togglePassword()">
+            <input type="checkbox" name="checkbox" onclick="toggleCPassword()">
             <button type="submit" name="submit" class="btn">Register</button>
 
             <!--<p id="strike">or</p>

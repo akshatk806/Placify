@@ -189,6 +189,7 @@
             }
             .result-container h1{
                 font-size: 3rem;
+                text-align: left;
             }
             .result-container .map-icon{
                 color: orange;
