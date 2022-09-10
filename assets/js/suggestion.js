@@ -106,7 +106,20 @@ let names = [
     "Gandhinagar",
     "Diu",
     "Bhuj",
-    "Surat"
+    "Surat",
+    "Delhi",
+    "India Gate",
+    "Qutub Minar",
+    "Humayun Tomb",
+    "Akshardham Temple",
+    "Lotus Temple",
+    "Red Fort",
+    "Museum Of Illusions",
+    "Agrasen Ki Baoli",
+    "Garden Of Five Senses",
+    "Jama Masjid",
+    "Gurudwara Bangla Sahib",
+    "Rail Museum"
 ];
 
 
