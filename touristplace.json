@@ -1319,6 +1319,117 @@
         }
       ],
       "food": "Gujarati cuisines vary in taste and flavour as one moves from region to region. The most distinct of them are the ones from Surat, Kathiawad, Kachchh and North Gujarat. The food is mostly vegetarian, and you can sense the hints of sweetness and spice distinctly in the dishes. As per tradition, the food here is served in metal platters or commonly known to people as a 'thali'. A typical Gujarati meal would include Dal, Kadhi, Salad, Puri, Chappatis, Pickles, Papad and some trendy sweets. Dhokla, Thepala, Fafda, Kachori, Khandvi, Handwoh, Ganthia, Oondhiya, Debra, Surat Paun are just some of the many Gujarati delicacies that define the food here. Other than these Basundi, Puran Poli, Shrikhand, Ghevar, Malpua are the traditional sweet dishes that you cannot miss and are famous all over the country."
+    },
+    {
+      "id": "9",
+      "name": "Delhi",
+      "capital": "New Delhi",
+      "about": "The capital of India, Delhi is a cosmopolitan city with a historic old Delhi and the modern New Delhi. From historical monuments to crowded shopping malls, from an extensive network of the modern metro system to Delhi University campus, Dilli has multiple personalities and is considered to be the city with a heart. The narrow, winding lanes and bylanes of old Delhi are a testament to the former Mughal rule. Old Delhi houses one of the country's oldest and busiest market i.e, Chandni Chowk. Take time to explore historical monuments such as the Red Fort, Jama Masjid, Humayun's Tomb and Purana Qila if you want to explore the Mughal History. Delhi has famous temples scattered all across the city, a few noteworthy ones being the Akshardham Temple, the Lotus Temple (also known as the Bahai Temple), and the ISKON Temple. People in Delhi love to eat, and tourists will find themselves spoilt for choice between the multitude of dishes on offer at every corner of every street. From kebabs and tikkas to Chhole Bhature, Delhi is a melting pot of diverse cultures, and this fact is reflected in the culinary palette of the city. There are a number of cafes and restaurants for the travellers. Central Delhi is the concentration of the country's political power, and the must-visit places here include the Connaught Place,  drive from outside of Rashtrapati Bhawan on Raisina Hill (visitors are not allowed to go inside), the Rajpath, and the India Gate. The best place to visit this area is in the evening, as all the buildings are lit up, and you can see the Amar Jawan Jyoti at India Gate shining brightly. Delhi is a shopper's paradise with some colourful bazaars and upscale markets. The wide variety of markets in Delhi ensure that travellers go back home with double the luggage they came with!",
+      "climate": "Landlocked Delhi sits on the banks of the Yamuna River in North India. Its interior location far from the sea and hemmed by mountains creates an unusual dry continental climate in a largely humid, subtropical region. <br> The weather and climate in Delhi are characterized by extreme differences in summer and winter temperatures. Winters are chilly at night but pleasant during the daytime. Summers are long and scorching, with most days above 40 degrees C in May and June. The city only ever becomes humid during the rainy season, when moist monsoonal winds travel up from the west coast of India and penetrate it.",
+      "history": "The history of the city is as old as the epic Mahabharata. The town was known as Indraprastha, where Pandavas used to live. In due course eight more cities came alive adjacent to Indraprastha: Lal Kot, Siri, Dinpanah, Quila Rai Pithora, Ferozabad, Jahanpanah, Tughlakabad and Shahjahanabad. Delhi has been a witness to the political turmoil for over five centuries. It was ruled by the Mughals in succession to Khiljis and Tughlaqs. After independence in 1947, New Delhi was officially declared as the Capital of India.",
+      "time": "While October to March is the best time to visit Delhi because of cool weather. However, some weeks in late November to January should be avoided because of heavy smog cover. February and March have great weather and relatively clean air to travel outside. Delhi experiences extreme temperatures in summer and winter seasons. The summer months (April to July) are scorching hot in Delhi as the temperature might rise to 45 degree Celsius. Temperatures fall a little during the monsoon season (August to September) and certain days can be good for roaming around.",
+      "img": [
+        "https://www.holidify.com/images/bgImages/DELHI.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/Redfortdelhi1_20190731143243.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/Qutub_Minar_932_20190731143921.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/Akshardham_angled_20190731153142.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/Jama_masjid_dilli6_20190731152644.jpg",
+        "https://www.holidify.com/images/cmsuploads/compressed/SarojiniNagarMarket_20190731165327.jpg"
+      ],
+      "products": [
+        {
+          "name": "Bandhej",
+          "description": "The best place for Bandhani and cotton fabric shopping in Ahmedabad is at Bandhej. Started in 1985 by Archana Shah, Bandhej has become synonymous with sustainable clothing. Its designs are elegant and change with the trends and seasons. Best picks at Bandhej would include kurtas, dupattas and tunic skirts.",
+          "image": "https://cdn.shopify.com/s/files/1/1027/2035/products/5_fad6153f-6343-4c4c-b66e-d8a41764155b.jpg?v=1571438909"
+        }
+      ],
+      "tourist": [
+        {
+          "name": "India Gate",
+          "state":"Delhi",
+          "info": "The All India War Memorial, popularly known as the India Gate, is located along the Rajpath in New Delhi. The imposing structure of India Gate is an awe-inspiring sight and is often compared to the Arch de Triomphe in France, the Gateway of India in Mumbai and the Arch of Constantine in Rome. This 42-meter tall historical structure was designed by Sir Edwin Lutyens and is one of the largest war memorials in the country. India Gate is also famous for hosting the Republic Day Parade every year. ",
+          "images": "https://www.holidify.com/images/bgImages/DELHI.jpg",
+          "location": "https://www.google.com/maps/place/India+Gate/@28.6129167,77.227321,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce2daa9eb4d0b:0x717971125923e5d!8m2!3d28.612912!4d77.2295097"
+        },
+        {
+          "name": "Qutub Minar",
+          "state":"Delhi",
+          "info": "Qutub Minar is a minaret or a victory tower located in Qutub complex, a UNESCO World Heritage Site in Delhi's Mehrauli area. With the height of 72.5 metres (238 ft), Qutub Minar is the second tallest monument of Delhi. Its construction was started in 1192 by Qutb Ud-Din-Aibak, founder of Delhi Sultanate after he defeated the last Hindu Ruler of Delhi. He constructed the basement, after which the construction was taken over by his son-in-law and successor Iltutmish who constructed three additional stories. The fourth and fifth storeys were built by Firoz Shah Tuglak.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/Qutub_Minar_in_the_monsoons_20170908115259.jpg",
+          "location": "https://www.google.com/maps/place/Qutub+Minar/@28.5244801,77.1833319,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1e0667819b4f:0x834995f160759db8!8m2!3d28.5245087!4d77.1855817"
+        },
+        {
+          "name": "Humayun Tomb",
+          "state":"Delhi",
+          "info": "As the name suggests, Humayuns tomb is the final resting place of the Mughal Emperor Humayun. Located in the Nizamuddin East area of Delhi, it is the first garden-tomb in the Indian subcontinent. This splendid piece of architecture was commissioned for construction by Humayun's chief consort Empress Bega Begum in the year 1569-70 and is one of the very few structures that used red sandstone on such a massive scale at that time. The design of Humayun's tomb is a typical Mughal architecture with Persian influences and was conceptualised by Persian architect Mirak Mirza Ghiyath. Owing to its magnificent design and illustrious history, Humayun's Tomb was featured in UNESCO's World Heritage List in the year 1993.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/Humayun-tomb_20170809201316.jpg",
+          "location": "https://www.google.com/maps/place/Humayun's+Tomb/@28.593285,77.24856,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce3460cf3d3e1:0x74de4dee3c818316!8m2!3d28.5932803!4d77.2507487"
+        },
+        {
+          "name": "Akshardham Temple",
+          "state":"Delhi",
+          "info": "An epitome of Indian culture, spirituality, and architecture, Akshardham Temple is a famous Hindu temple and a spiritual-cultural complex. Also known as Swaminarayan Akshardham, it is dedicated to Lord Swaminarayan. Akshardham has made its way to the Guinness Book of World Records as the World's Largest Comprehensive Hindu Temple. <br> The Akshardham Temple is known for its stunning architecture. It has eight ostentatiously carved mandapams while timeless Hindu teachings and flamboyant devotional traditions find their place on the temple's walls. The centrepiece, i.e. Lord Swaminarayan's Murti along with that of 20,000 deities, significant personalities in Indian history and sages showcase the essence of Indian architecture, traditions and timeless spiritual thoughts. ",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/attr_wiki_4067_20191212124026.jpg",
+          "location": "https://www.google.com/maps/place/Akshardham/@28.6126782,77.2750732,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce35b9975b1fb:0x69a09f265ef3b22a!8m2!3d28.6126735!4d77.2772619"
+        },
+        {
+          "name": "Lotus Temple",
+          "state":"Delhi",
+          "info": "Located in the national capital of New Delhi, the Lotus Temple is an edifice dedicated to the Baha'i faith. The magnificent structure of this building unfolds in the form of a stupendous white petal lotus and is one of the most visited establishments in the world. The design of this shrine was conceptualized by Canadian architect Fariborz Sahba and was completed in the year 1986. This temple seeks to propagate the oneness of the Almighty and is open to all regardless of their nationality, religion, race or gender. The Lotus temple is one of the seven Baha'i House of Worship present around the world. <br><br> As you enter the complex of the temple, you encounter an enchanting entrance gate, beautiful floral gardens and scintillating pools. The pathway leading up to the temple doors is lined with lush green shrubs and a feeling of tranquillity adorns the atmosphere despite the bubbling crowd. Once inside, the mesmerising architecture will lull you into an introspective silence. You can read and chant religious texts of any faith, and musical renditions of religious texts can be sung without any inhibitions in the temple complex. The Bahai Lotus Temple is without a doubt one of the must-visit places in the capital. Not just for its marvellous architecture but also to experience a new way of meditation in a completely different, blissful ambience.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/9713607938_4bd9507080_b_20180302141225.jpg",
+          "location": "https://www.google.com/maps/place/Lotus+Temple/@28.5534967,77.2566377,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce3c16e028cd1:0x653beb1ee85ec67a!8m2!3d28.553492!4d77.2588264"
+        },
+        {
+          "name": "Red Fort",
+          "state":"Delhi",
+          "info": "The Red Fort is a historical fortification in the old Delhi area. Shah Jahan constructed it in the year 1639 as a result of a capital shift from Agra to Delhi. Used as the main residence of the emperors of the Mughal dynasty, this imposing piece of architecture derives its name from its impregnable red sandstone walls. In addition to accommodating the emperors and their households, it was the ceremonial and political centre of the Mughal state and the setting for events critically impacting the region. Today, this monument is home to several museums that have an assortment of precious artefacts on display. Every year, the Indian Prime Minister unfurls the national flag here on the Independence Day.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/Delhi_Red_fort_20190312151147.jpg",
+          "location": "https://www.google.com/maps/place/Red+Fort/@28.6561639,77.2388316,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfce26ec085ef:0x441e32f4fa5002fb!8m2!3d28.6561592!4d77.2410203"
+        },
+        {
+          "name": "Museum Of Illusions",
+          "state":"Delhi",
+          "info": "The Museum of Illusions in Connaught Place, New Delhi is India's first optical illusion museum. It is a fun place to challenge the senses by exploring exhibits which include holograms, a supposedly rotating cylinder, a room with no gravity, rooms with mirrors that distort reality and much more. <br><br> Within the museum are a plethora of holograms which are basically images that create 3D illusions of all kinds and often change or disappear. One can also get to see photo illusions which come with all kinds of backgrounds, or experience a stereogram that is a picture. It contains a hidden object which appears to be 3D when viewed from a certain angle. There is also a Smart Playroom here which is aimed at stimulating cognitive function; one can learn through puzzles, mathematical games, building blocks, impossible knots etc. The Smart Shop sells many kinds of games, souvenirs and small optical illusions.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/museum-of-illusions-new-delhi-reverse-room-800x0-c-default_20220223180238.jpeg",
+          "location": "https://www.google.com/maps/place/Museum+of+Illusions+New+Delhi/@28.6331405,77.2182502,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPV9t5ts2hL7gdftJsUbBxTUC0liC466UR-U7tJ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPV9t5ts2hL7gdftJsUbBxTUC0liC466UR-U7tJ%3Dw114-h86-k-no!7i4032!8i3024!4m5!3m4!1s0x390cfd96788ff6db:0x2ab0c17c3b8f568c!8m2!3d28.6332086!4d77.2179489"
+        },  
+        {
+          "name": "Agrasen Ki Baoli",
+          "state":"Delhi",
+          "info": "Also referred to as Agar Sain Ki Baoli or Ugrasen ki Baoli, this attraction is a historical monument situated on the Halley Road in New Delhi. A mosaic of different assortment of stones and rocks, Agrasen ki Baoli, is an ancient water reservoir which rises from the depths of the earth to stand atop 103 stone steps. Hidden amidst the business towers and residential apartments of central Delhi, this place is a quiet and serene experience perfect for photography lovers. The old brick walls of the structure take you back in history, and as you go down the steps, a drop in temperature can be experienced. Agrasen ki Baoli is a protected monument under the Ancient Monuments and Archaeological Sites and Remains Act, 1958 of the Archaeological Survey of India.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/baoli_20170829004212.PNG",
+          "location": "https://www.google.com/maps/place/Agrasen+ki+Baoli/@28.6260529,77.2228442,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd3313d868d9:0x9084a965630af01b!8m2!3d28.6260482!4d77.2250329"
+        },  
+        {
+          "name": "Garden Of Five Senses",
+          "state":"Delhi",
+          "info": "Located in the poised Said-ul-Ajaib, away from the din of the city, the Garden of Five Senses that sprawls over 20 acres of land is designed to stimulate your senses of touch, sight, smell, sound and taste and is a paradise for nature’s lovers. Partly built on rocky terrain and partly in the plain area, the garden has various themed parks, a section of Mughal baghs, pools of water lilies, cascades of sparkling water, a solar energy park, an amphitheatre, a humongous yet charming food court, in addition to umpteen sculptures, rock carvings and themed decor. <br><br> Designed by the famous Delhi architect Pradeep Sachdeva, the park was jointly constructed by Delhi Tourism and Transportation Development Corporation at the cost of whopping 10.5 crores and was inaugurated in February 2003. Flower show during February is a notable event.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/5461519589_044d05ab71_b_20180328105209.jpg",
+          "location": "https://www.google.com/maps/place/The+Garden+of+Five+Senses/@28.5134077,77.195334,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce1e3ea219915:0x14fc57988731271c!8m2!3d28.513403!4d77.1975227"
+        },  
+        {
+          "name": "Jama Masjid",
+          "state":"Delhi",
+          "info": "Jama Masjid is situated in the older part of Delhi, now called Chandni Chowk and surrounded by beautiful Mughal structures. It took a huge construction cost of one million rupees at the time, five thousand workers and six years (1650-1656) to complete. To reach the entrance one needs to climb 121 steps which are filled with food and bookstalls in the evening. The massive central dome is an outstanding example of Islamic architecture. J Sadaullah Khan who was the Wazir (prime minister) during Shah Jahan's rule supervised the construction of the mosque. Literally meaning 'World Reflecting Mosque.', the mosque was the last of Shah Jahan's impressive collection of architectural undertakings, after the Taj Mahal and the Red Fort.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/crowd-of-people-gathering-near-jama-masjid-delhi-2989625_20200427110709.jpg",
+          "location": "https://www.google.com/maps/place/Jama+Masjid/@28.6506839,77.2312534,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd18df89b215:0xdd57369e29bf9d96!8m2!3d28.6506792!4d77.2334421"
+        },
+        {
+          "name": "Gurudwara Bangla Sahib",
+          "state":"Delhi",
+          "info": "Gurudwara Bangla Sahib is a Sikh temple as well as tourist places in Delhi. Built to commemorate the visit Guru Har Krishan, the eighth Sikh guru in 1664, this magnificent shrine was built by Sikh General Sardar Bhagel Singh in 1783, who supervised the construction of nine Sikh shrines in Delhi in the same year during the reign of Mughal Emperor Shah Alam II. Operating for all 24 hours, the Gurudwara is an example of the large-hearted nature of Sikhs. This place of solace is flocked by more than a thousand people in one single day. <br><br> The complex of Gurudwara Bangla Sahib has a main prayer hall, a holy Sarovar or lake, higher secondary school, a hospital, Baba Baghel Singh Museum and a library within its premises. People visiting here get 'Kada Prasad' and free langar or 'community meals' are served at a particular time. Head needs to be covered while entering, shoes have to be deposited near the entrances and feet are washed in warm water before entering. It also has a 'Yatri Niwas' or House for tourists. The Paath and Shabads (the sacred chants) that go almost for 24 hours connects you directly to the divine power.",
+          "images": "https://holidify.com/images/attr_wiki/compressed/attr_wiki_2057.jpg",
+          "location": "https://www.google.com/maps/place/Gurudwara+Shri+Bangla+Sahib/@28.6263811,77.2068817,17z/data=!3m1!4b1!4m5!3m4!1s0x390cfd9eccc07d2d:0x6db044e71b8e8e3b!8m2!3d28.6263764!4d77.2090704"
+        },
+        {
+          "name": "Rail Museum",
+          "state":"Delhi",
+          "info": "Located in the vicinity of Chanakyapuri, the Rail Museum aims to preserve the 163 years old railway heritage of India. Popularly known as the National Railway Museum, the museum is spread over 10 acres of land and houses some fantabulous railway memorabilia. Established on 1st of February, 1977, the Rail Museum possesses an exciting collection of around 100 real size exhibits of Indian railways both working and static, antiques, furniture and the like. A few dummy specimen also offer rides to both adults and kids. Other than the vast outdoor which houses the very famous ‘Fairy Queen’- the oldest working steam locomotive, now the museum has also facilitated 3D virtual train ride, steam loco stimulator and an indoor gallery.",
+          "images": "https://www.holidify.com/images/cmsuploads/compressed/1024px-National_Rail_Museum_India_Museum_Junction_20190618214714.jpg",
+          "location": "https://www.google.com/maps/place/National+Rail+Museum/@28.584992,77.179222,17z/data=!3m1!4b1!4m5!3m4!1s0x390d1d7021a0de89:0xdb46d0593f9caa02!8m2!3d28.5849873!4d77.1814107"
+        }
+      ],
+      "food": "If you ask a Delhiite what are two things that really stand out for them about the city, it would be the rich history and the mouth-watering food. Now, I have to admit this blog sure got me in a tizzy. It’s tough being born in a city which offers such a rich diversity of cuisines, add to that the fact I’m Punjabi, and boy do we love to eat! Delhi is a melting pot of various cultures and races who enrich the variety of the gastronomic range in the city.From Chandni Chowk to Majnu ka Tilla, Delhi is replete with many culinary delights."
     }
   ]
 }
